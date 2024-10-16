@@ -71,3 +71,14 @@ The following machine learning algorithms were trained and evaluated:
 - **Random Forest** provided the best results with an accuracy of 88.7% and the highest F1 Score of 87.0%.
 - The performance of each model was evaluated using 5-fold cross-validation.
 - **ROC Curves** were plotted for each model to visualize their performance.
+
+## Contributors
+
+We would like to acknowledge the contributions of the following people who helped in building this project:
+
+- [Disha Wankhede](https://github.com/Disha3112)
+- [Om Karadkar](https://github.com/KaradkarOm)
+- [Ameya Katdare]
+- [Sanket Lohgaonkar]
+- [Shubham Waghmare]
+
